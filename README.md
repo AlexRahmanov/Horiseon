@@ -17,4 +17,4 @@ When we view the title element, Then we  find a concise, descriptive title.
 * [CSS](https://www.w3schools.com/css/)
 
 
-![Test Image 1](https://alexrahmanov.github.io/Horiseon-Marketing-Agency/)
+![Screenshot](https://github.com/AlexRahmanov/Horiseon-Marketing-Agency/blob/main/assets/images/Horiseon.png)
