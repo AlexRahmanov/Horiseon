@@ -12,7 +12,7 @@ When we view the heading attributes, Then they fall in sequential order.
 When we view the title element, Then we  find a concise, descriptive title.
 
 # Work Place
-* Visual Studio Code
-* HTML
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
