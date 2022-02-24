@@ -21,3 +21,4 @@ When we view the title element, Then we  find a concise, descriptive title.
 
 # Screenshot
 ![Screenshot](https://github.com/AlexRahmanov/Horiseon-Marketing-Agency/blob/main/assets/images/Horiseon.png)
+.
